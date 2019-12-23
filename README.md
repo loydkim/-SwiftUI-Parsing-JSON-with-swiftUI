@@ -1,6 +1,6 @@
 # JsonParsingTest
 
-![gg](https://sites.google.com/site/loydslabsite/labstorage/promotion_json2.gif)
+![gg](https://1.bp.blogspot.com/-p78kG6atgZ4/XgEjkrtcP0I/AAAAAAAAA_s/n4qvTGo2SW4FNb-_hSbiobWtt4SEaue0wCLcBGAsYHQ/s1600/promotion4.png)
 
 * Reference links:
 
