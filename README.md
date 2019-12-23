@@ -5,6 +5,7 @@
 * Reference links:
 
 1. Youtube link: https://youtu.be/KKBcr1Bw_kw
+2. Random JSON link: https://api.randomuser.me/
 
 * Develop environment.
 
