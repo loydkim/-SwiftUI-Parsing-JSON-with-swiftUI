@@ -1,6 +1,6 @@
 # JsonParsingTest
 
-![](https://media.giphy.com/media/VIuBUDGchukLpQOsow/giphy.gif)
+![](https://b66f6478-a-62cb3a1a-s-sites.googlegroups.com/site/loydslabsite/labstorage/promotion_json2.gif)
 
 * Reference links:
 
