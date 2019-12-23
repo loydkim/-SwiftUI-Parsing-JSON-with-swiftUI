@@ -1,6 +1,6 @@
 # JsonParsingTest
 
-![Image of Yaktocat](https://im5.ezgif.com/tmp/ezgif-5-c8146be67a77.gif)
+![](https://media.giphy.com/media/VIuBUDGchukLpQOsow/giphy.gif)
 
 * Reference links:
 
