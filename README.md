@@ -1,6 +1,6 @@
 # JsonParsingTest
 
-![Image of Yaktocat](https://sites.google.com/site/loydslabsite/labstorage/promotion_json2.gif?attredirects=0)
+![Image of Yaktocat](https://sites.google.com/site/loydslabsite/labstorage/promotion_json2.gif)
 
 * Reference links:
 
